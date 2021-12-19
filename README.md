@@ -4,32 +4,32 @@ Two Excels with unsorted similar content and you want to have it all sorted in o
 ### Example
 
 ##### EXCEL 1: 
-Name			Birthday
+*Name*			*Birthday*
 
-BRICE			1988.09.23
+BRICE			  1988.09.23
 
-MARIE			1959.04.09
+MARIE			  1959.04.09
 
-BRENDA		2005.12.28
+BRENDA		  2005.12.28
 
 ##### EXCEL 2:
-Birthday		City
+*Birthday*		  *City*
 
-2005.12.28	Munich
+2005.12.28    Munich
 
-1988.09.23	Shangai
+1988.09.23	  Shangai
 
-1959.04.09	Dakar
+1959.04.09	  Dakar
 
 
 ##### GOAL --> EXCEL 3:
 
-Name			Birthday		City
+*Name*			*Birthday*		*City*
+  
+BRICE 			1988.09.23  	Shangai
 
-BRICE			1988.09.23	Shangai
+MARIE	  		1959.04.09  	Dakar
 
-MARIE			1959.04.09	Dakar
-
-BRENDA		2005.12.28	Munich
+BRENDA  		2005.12.28  	Munich
 
 
