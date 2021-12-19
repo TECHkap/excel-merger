@@ -1,22 +1,22 @@
 # excel-merger
 Two Excels with unsorted similar content and you want to have it all sorted in one Excel
 
-## Example
+### Example
 
-EXCEL 1: 
+##### EXCEL 1: 
 name			Birthday
 BRICE			1988.09.23
 MARIE			1959.04.09
 BRENDA		2005.12.28
 
-EXCEL 2:
+##### EXCEL 2:
 Birthday		City
 2005.12.28	Munich
 1988.09.23	Shangai
 1959.04.09	Dakar
 
 
-GOAL --> EXCEL 3:
+##### GOAL --> EXCEL 3:
 
 name			Birthday		City
 BRICE			1988.09.23	Shangai
