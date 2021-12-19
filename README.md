@@ -1,7 +1,7 @@
 # excel-merger
 Two Excels with unsorted similar content and you want to have it all sorted in one Excel
 
-##Example
+## Example
 
 EXCEL 1: 
 name			Birthday
